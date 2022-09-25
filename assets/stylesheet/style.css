@@ -87,6 +87,29 @@ img {
     border-color:#09008a;
     border-radius: 25%;
  }
+ 
+ .contactimage {
+    margin-left: 12%;
+    max-width: 10%;
+    height: 10%;
+    width: 10%;
+    border-width: 5%;
+    border-style: solid;
+    border-color:#09008a;
+    border-radius: 25%;
+ }
+
+ .placeholder {
+        display: inline;
+        margin-left: 17.5%;
+        max-width: 10%;
+        height: 10%;
+        width: 10%;
+        border-width: 5%;
+        border-style: solid;
+        border-color:#09008a;
+        border-radius: 25%;
+ }
 
  #image2 {
     margin-left: 0%;
@@ -99,14 +122,4 @@ img {
     border-color:#09008a;
     border-radius: 25%;
  }
-
- .contactimage {
-    margin-left: 12%;
-    max-width: 10%;
-    height: 10%;
-    width: 10%;
-    border-width: 5%;
-    border-style: solid;
-    border-color:#09008a;
-    border-radius: 25%;
- }
+ 
