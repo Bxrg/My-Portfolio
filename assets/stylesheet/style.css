@@ -1,0 +1,112 @@
+h1{
+    background-color:rgb(109, 108, 108);
+    color:#09008a;
+    font-family: "georgia", "helvetica", "arial";
+    text-align: center;
+    filter:contrast(2);
+    line-height: 125%;
+    font-size: 400%;
+}
+
+h2 {
+    font-family: "georgia", "helvetica", "arial";
+    text-align: center;
+    font-size: 250%;
+    color: #09008a;
+}
+
+h3 {
+    font-family: "georgia", "helvetica", "arial";
+    font-size: 125%;
+    color: #09008a;
+}
+
+footer {
+    text-align: center;
+    font-weight: 600;
+}
+
+a:visited {
+    color: #09008a;
+    text-decoration: none;
+
+}
+
+.intro {
+    display: flex;
+    justify-content: center;
+    font-family: "helvetica", "sans serif", "arial";
+    font-weight: 500;
+    font-size: 110%;
+}
+
+.text {
+    font-family: "helvetica", "sans serif", "arial";
+    font-weight: 500;
+    font-size: 110%;
+}
+
+.textlink {
+    color:black
+}
+
+.textlink:visited {
+    color: black;
+}
+
+#about {
+    display: flex;
+    justify-content: center;
+    font-family: "helvetica", "sans serif", "arial";
+    font-weight: 500;
+    font-size: 110%;
+}
+
+
+#items {
+    color: #09008a;
+    font-weight: 700;
+    font-size: 200%;
+    display: block;
+}
+
+#contacts {
+    background-color: rgb(109, 108, 108);
+    line-height: 125%;
+    font-size: 300%;
+}
+ 
+img {
+    margin-left: 44.75%;
+    position: relative;
+    max-width: 10%;
+    height: auto;
+    width: auto;
+    border-width: 5%;
+    border-style: solid;
+    border-color:#09008a;
+    border-radius: 25%;
+ }
+
+ #image2 {
+    margin-left: 0%;
+    position: relative;
+    max-width: 20%;
+    height: auto;
+    width: auto;
+    border-width: 5%;
+    border-style: solid;
+    border-color:#09008a;
+    border-radius: 25%;
+ }
+
+ .contactimage {
+    margin-left: 12%;
+    max-width: 10%;
+    height: 10%;
+    width: 10%;
+    border-width: 5%;
+    border-style: solid;
+    border-color:#09008a;
+    border-radius: 25%;
+ }
